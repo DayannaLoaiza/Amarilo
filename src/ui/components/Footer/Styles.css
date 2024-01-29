@@ -1,0 +1,32 @@
+.container-footer{
+    padding: 1rem 0 0;
+    background-color: #fafafa;
+    width: 100%;
+}
+
+.roomie-footer__top{
+    width: 100%;
+    padding: 0 0.8rem;
+}
+
+.roomie-footer__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border-bottom: 0.1rem solid #c2cac8;
+    padding: 0 0 0.5rem;
+}
+
+.menu-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-block: 2rem;
+}
+
+.copyright{
+    background: #160b29;
+    padding: 1rem 1rem;
+    text-align: center;
+    color: #fff;
+}
